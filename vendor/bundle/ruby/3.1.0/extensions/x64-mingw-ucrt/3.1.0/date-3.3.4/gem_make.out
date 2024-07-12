@@ -1,0 +1,22 @@
+current directory: C:/Users/amart/Prog/railsfriends/friends/vendor/bundle/ruby/3.1.0/gems/date-3.3.4/ext/date
+C:/RailsInstaller/Ruby3.1.2/bin/ruby.exe -I C:/RailsInstaller/Ruby3.1.2/lib/ruby/3.1.0 -r ./siteconf20240712-8660-y6p2yn.rb extconf.rb
+checking for rb_category_warn()... yes
+checking for timezone in time.h with  -Werror... no
+checking for altzone in time.h with  -Werror... no
+creating Makefile
+
+current directory: C:/Users/amart/Prog/railsfriends/friends/vendor/bundle/ruby/3.1.0/gems/date-3.3.4/ext/date
+make DESTDIR\= clean
+
+current directory: C:/Users/amart/Prog/railsfriends/friends/vendor/bundle/ruby/3.1.0/gems/date-3.3.4/ext/date
+make DESTDIR\=
+generating date_core-x64-mingw-ucrt.def
+compiling date_core.c
+compiling date_parse.c
+compiling date_strftime.c
+compiling date_strptime.c
+linking shared-object date_core.so
+
+current directory: C:/Users/amart/Prog/railsfriends/friends/vendor/bundle/ruby/3.1.0/gems/date-3.3.4/ext/date
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 date_core.so ./.gem.20240712-8660-1w39jt

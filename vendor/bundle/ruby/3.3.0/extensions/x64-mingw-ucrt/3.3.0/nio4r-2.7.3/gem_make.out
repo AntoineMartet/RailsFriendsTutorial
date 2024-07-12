@@ -1,0 +1,18 @@
+current directory: C:/Users/amart/Prog/railsfriends/friends/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.3/ext/nio4r
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+
+current directory: C:/Users/amart/Prog/railsfriends/friends/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.3/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240712-37964-piuuw9 sitelibdir\=./.gem.20240712-37964-piuuw9 clean
+make: *** Aucune règle pour fabriquer la cible « clean ». Arrêt.
+
+current directory: C:/Users/amart/Prog/railsfriends/friends/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.3/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240712-37964-piuuw9 sitelibdir\=./.gem.20240712-37964-piuuw9
+make: Rien à faire pour « all ».
+
+current directory: C:/Users/amart/Prog/railsfriends/friends/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.3/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240712-37964-piuuw9 sitelibdir\=./.gem.20240712-37964-piuuw9 install
+make: Rien à faire pour « install ».
+
+current directory: C:/Users/amart/Prog/railsfriends/friends/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.3/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240712-37964-piuuw9 sitelibdir\=./.gem.20240712-37964-piuuw9 clean
+make: *** Aucune règle pour fabriquer la cible « clean ». Arrêt.
